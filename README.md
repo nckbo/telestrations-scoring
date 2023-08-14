@@ -1,4 +1,6 @@
 # Telestrations Scoring System
+For an in-depth walkthrough of this project check out the following Medium article: https://medium.com/@nickboveri/telestrations-semantic-scoring-system-using-text-embeddings-d49e3a5e843a
+
 ## Overview
 This project aims to propose an objective scoring system for the popular drawing and guessing game, Telestrations. By using text embeddings, we can quantify the similarity between the original prompt and subsequent drawings/guesses. As the game progresses, players' drawings and guesses can deviate greatly from the original prompt, making it interesting to compute and visualize this deviation.
 
